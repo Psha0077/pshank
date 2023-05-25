@@ -6,7 +6,8 @@ This is the title
 
 
 
-
+#Body
+This is the body. The body goes here
 
 
 
